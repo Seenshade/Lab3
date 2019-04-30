@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (task1_for.c.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  task1.c
+c:\users\seens\desktop\practice\practical_task_№3\task1_for.c\task1_for.c\task1.c(12): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\seens\desktop\practice\practical_task_№3\task1_for.c\task1_for.c\task1.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(1274): note:  см. объявление "scanf"
+  task1_for.c.vcxproj -> C:\Users\Seens\Desktop\PRACTICE\Practical_task_№3\task1_for.c\x64\Debug\task1.c.exe
